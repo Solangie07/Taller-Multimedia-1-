@@ -1,11 +1,16 @@
 html {
   font-size: 10px;
   font-family: 'Quantico', fancy text;
+  background-color: #0f576e;
 }
 
 h1 {
   font-size: 60px;
   text-align: center;
+  margin: 0 ;
+  padding: 20px 0;
+  color: #183a52;
+  text-shadow: 3px 3px 1px black;
 }
 
 h2 {
@@ -19,9 +24,7 @@ p, li {
   letter-spacing: 1px;
 }
 
-html {
-  background-color: #0f576e;
-}
+
 
 body {
   width: 600px;
@@ -31,12 +34,7 @@ body {
   border: 5px neon light blue;
 }
 
-h1 {
-  margin: 0 ;
-  padding: 20px 0;
-  color: #183a52;
-  text-shadow: 3px 3px 1px black;
-}
+
 
 img {
   display: block;
